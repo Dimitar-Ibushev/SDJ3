@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\bin\Debug\netcoreapp2.0\ChassisChecker.deps.json
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\bin\Debug\netcoreapp2.0\ChassisChecker.runtimeconfig.json
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\bin\Debug\netcoreapp2.0\ChassisChecker.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\bin\Debug\netcoreapp2.0\ChassisChecker.dll
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\bin\Debug\netcoreapp2.0\ChassisChecker.pdb
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\obj\Debug\netcoreapp2.0\ChassisChecker.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\obj\Debug\netcoreapp2.0\ChassisChecker.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\obj\Debug\netcoreapp2.0\ChassisChecker.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\obj\Debug\netcoreapp2.0\ChassisChecker.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\obj\Debug\netcoreapp2.0\ChassisChecker.dll
+C:\Users\Asus\Desktop\CarDismantlingFacility\src\ChassisChecker\ChassisChecker\obj\Debug\netcoreapp2.0\ChassisChecker.pdb
